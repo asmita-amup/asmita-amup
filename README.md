@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asmita-amup,I'm Currently Learning Data Science And AI.
-- 👀 Ask me About C,JAVA,POWER BI,Python
+- 👀 Ask me About C,JAVA,POWER BI,Python,Adavanced Excel,ML,AI,LLM
 - 🌱 Completed Bachelor of Engineering JSPM's BSIOTR Wagholi, Pune
 - 💞️ I’m looking to collaborate on team work
 - 📫 How to reach me asmitaamup12@gmail.com ,asmitaamup23@gmail.com
